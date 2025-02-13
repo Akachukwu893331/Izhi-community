@@ -21,7 +21,7 @@ import { ref } from 'vue';
         <!-- Image Section -->
         <div>
           <img 
-            src="../assets/stem.jpeg" 
+            src="../assets/Stem.jpeg" 
             alt="Innovative futuristic car on display at an expo" 
             class="w-full rounded-md md:h-96 "
           />
