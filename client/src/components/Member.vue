@@ -16,15 +16,15 @@
         <div class="relative">
           <!-- Avatar Group -->
           <div class="flex items-center justify-center -space-x-2">
-            <img loading="lazy" width="400" height="400" src="https://randomuser.me/api/portraits/women/12.jpg" 
+            <img loading="lazy" width="400" height="400" src="../assets/member 1.jpg" 
               alt="member photo" class="h-8 w-8 rounded-full object-cover">
-            <img loading="lazy" width="200" height="200" src="https://randomuser.me/api/portraits/women/45.jpg" 
+            <img loading="lazy" width="200" height="200" src="../assets/member 2.jpg" 
               alt="member photo" class="h-12 w-12 rounded-full object-cover">
-            <img loading="lazy" width="200" height="200" src="https://randomuser.me/api/portraits/women/60.jpg" 
+            <img loading="lazy" width="200" height="200" src="../assets/member 5.jpg" 
               alt="member photo" class="z-10 h-16 w-16 rounded-full object-cover">
-            <img loading="lazy" width="200" height="200" src="https://randomuser.me/api/portraits/women/4.jpg" 
+            <img loading="lazy" width="200" height="200" src="../assets/member 4.jpg" 
               alt="member photo" class="relative h-12 w-12 rounded-full object-cover">
-            <img loading="lazy" width="200" height="200" src="https://randomuser.me/api/portraits/women/34.jpg" 
+            <img loading="lazy" width="200" height="200" src="../assets/member 3.jpg" 
               alt="member photo" class="h-8 w-8 rounded-full object-cover">
           </div>
   

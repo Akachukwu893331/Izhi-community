@@ -11,7 +11,7 @@ import { ref } from 'vue';
       <!-- Image Section -->
       <div class="relative">
         <img 
-          src="../assets/story.jpg" 
+          src="../assets/who we are.jpg" 
           alt="Group cleaning park, symbolizing community effort" 
           class="shadow-md object-cover w-full h-72 md:h-96 rounded-tr-md rounded-tl-md"
         />
