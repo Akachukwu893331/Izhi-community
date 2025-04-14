@@ -21,7 +21,8 @@
     <div class="flex flex-col p-12 md:px-12">
         <h2 class="text-2xl font-medium uppercase text-sky-500 lg:text-4xl"> Join Us Now</h2>
         <p class="mt-4">
-            Join for $99.99 annually and gain access to exclusive exhibits and sales. Your membership supports the development of the Izhi people.
+            Take the first step toward shaping a better future for young ones.
+             Discover how you can make an impact today.
         </p>
        
     </div>

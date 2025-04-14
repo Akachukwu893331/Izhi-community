@@ -4,6 +4,7 @@ import LandingPage from '../views/LandingPage.vue'
 import AboutusPage from '../views/AboutusPage.vue'
 import NewsPage from '../views/NewsPage.vue'
 import MembershipPage from '../views/MembershipPage.vue'
+import ContactPage from '../views/Contact Us.vue'
 import { IStaticMethods } from 'preline/preline';
 
 const routes = [
@@ -25,7 +26,13 @@ const routes = [
     path: '/Membership',
     name: 'MembershipPage',
     component: MembershipPage
+  },
+  {
+    path: '/Contact',
+    name: 'Contact Us',
+    component: ContactPage
   }
+
 ];
 
 declare global {
