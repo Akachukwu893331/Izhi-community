@@ -15,7 +15,7 @@ const submitForm = async (event) => {
   
   try {
     // Using FormSubmit.co to send to Gmail
-    const response = await fetch('https://formsubmit.co/ajax/@gmail.com', {
+    const response = await fetch('https://formsubmit.co/ajax/izhinolediaspora@gmail.com', {
       method: 'POST',
       headers: { 
         'Content-Type': 'application/json',
